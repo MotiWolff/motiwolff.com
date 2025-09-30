@@ -8,10 +8,10 @@
     'use strict';
 
     const cfg = {
-
-        // MailChimp URL
-        mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
-
+      // MailChimp URL - Your actual MailChimp form action URL
+      // From: Audience → Signup forms → Embedded forms in your MailChimp dashboard
+      mailChimpURL:
+        "https://gmail.us8.list-manage.com/subscribe/post?u=695ab8efd19792a4bc69b7843&id=242b91f62a&f_id=00abc6e2f0",
     };
 
 
